@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Zaina15
+- 👀 I’m interested in Data Science, Machine learning and AI
+- 🌱 I’m currently studying in 12th grade and exploring the field of data science.
+- 💞️ I’m looking to collaborate on recommendation systems, machine learning and AI.
+- 📫 How to reach me: https://www.linkedin.com/in/zaina-kudchiwala-979673183/
+
+<!---
+Zaina15/Zaina15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
