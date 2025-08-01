@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zaina15
 - 👀 I’m interested in Computer Science, Engineering, Machine learning and AI
-- 🌱 I’m currently studying in 12th grade and exploring the field of computer engineering.
-- 💞️ I want to collaborate on recommendation systems, machine learning and AI.
+- 🌱 I’m currently majoring in computer engineering at SDSU.
+- 💞️ I want to collaborate on projects related to embedded systems.
 - 📫 How to reach me: https://www.linkedin.com/in/zaina-kudchiwala-979673183/
 
 <!---
